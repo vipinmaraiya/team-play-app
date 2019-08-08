@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6544d322.chunk.css",
+    "main.js": "/static/js/main.f76fb527.chunk.js",
+    "main.js.map": "/static/js/main.f76fb527.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.25262acb.chunk.js": "/static/js/2.25262acb.chunk.js",
+    "static/js/2.25262acb.chunk.js.map": "/static/js/2.25262acb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d6fb8ed1243a424db1438b9e425e8a1a.js": "/precache-manifest.d6fb8ed1243a424db1438b9e425e8a1a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6544d322.chunk.css.map": "/static/css/main.6544d322.chunk.css.map",
+    "static/media/fb.png": "/static/media/fb.6163476d.png",
+    "static/media/header-bg.jpeg": "/static/media/header-bg.deb1c1f9.jpeg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/twitter.png": "/static/media/twitter.d44c6202.png"
+  }
+}
